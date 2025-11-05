@@ -1,4 +1,4 @@
 Technical Capabilities comparison of UiPath Vs Microsoft Power Automate
 
-![Tech Assessment](https://github.com/user-attachments/assets/3d50ddd1-6b77-4cbb-b1b2-df86b1f40df2)
+![TechComparison](https://github.com/user-attachments/assets/4fd2db89-1d6b-4dcf-9f72-b7ce2d83b8bf)
 
